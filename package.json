@@ -1,6 +1,6 @@
 {
   "name": "mini-debounce",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Zero-dependency functions for debouncing and throttling with leading or trailing calls.",
   "type": "module",
   "main": "src/index.js",
